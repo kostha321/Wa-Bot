@@ -53,15 +53,15 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
+global.nomorbot = '94763332698' //Nomor Bot
+global.nomorown = '94763332698' //Nomor Owner
 global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nameown = 'niko' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['94763332698', 'niko', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -98,7 +98,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘niko- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+94 76 333 2698'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
